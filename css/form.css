@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+span{
+    color: red;
+}
+
+#description{
+    width: 60%;
+}
+
+#latitude, #altitude{
+    width: 20%;
+}
+
+#shareLoc{
+    color: black;
+}
+
